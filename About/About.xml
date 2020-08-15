@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[JDS] The Forge - Anvil</name>
+	<author>JangoD'soul</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+		<li>1.2</li>		
+	</supportedVersions>
+	<packageId>JangoDsoul.TheForge.Anvil</packageId>
+	<description>
+The Forge is just a core mod for all my armor mods what i made so far, by it self does nothing but add any of my stantalone armor let you 
+Research and craft said armor.
+
+[h1]Features:[/h1]
+ -2 New workbenchs 
+ - Research/Research tree
+ 
+[h1]recommend Mod"[h1]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1678847247] Graphics Settings - Fix your textures! [/url]</description>
+</ModMetaData>

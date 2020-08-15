@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- ============= Smithing ============= -->
+
+  <WorkGiverDef>
+    <defName>DoBillsMakeJDSAnvilArmor</defName>
+    <label>make armor</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>109</priorityInType>
+    <fixedBillGiverDefs>
+      <li>JDSAnvil</li>
+    </fixedBillGiverDefs>
+    <verb>fabricating things</verb>
+    <gerund>fabricating things at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>DoBillsMakeJDSForgeHelmet</defName>
+    <label>make armor</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>108</priorityInType>
+    <fixedBillGiverDefs>
+      <li>JDSForge</li>
+    </fixedBillGiverDefs>
+    <verb>fabricating things</verb>
+    <gerund>fabricating things at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+  <WorkGiverDef>
+    <defName>DoBillsMakeJDSForgework</defName>
+    <label>make armor</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Smithing</workType>
+    <priorityInType>110</priorityInType>
+    <fixedBillGiverDefs>
+      <li>JDSWorkBench</li>
+    </fixedBillGiverDefs>
+    <verb>workbench things</verb>
+    <gerund>workbench things at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+</Defs>
